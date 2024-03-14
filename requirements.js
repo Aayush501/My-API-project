@@ -56,5 +56,5 @@
 // -----------------------------
 // delete
 // 1. delete a book:    Done 
-// 2. delete author from book
+// 2. delete author from book:    Done
 // 3. delete author from book and related book from author:     Done
